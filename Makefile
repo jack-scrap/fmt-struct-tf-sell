@@ -1,6 +1,6 @@
 CC=gcc
 
-EXEC=a.out
+EXEC=tf_sell
 
 BUILDDIR=build
 
